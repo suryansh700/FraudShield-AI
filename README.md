@@ -452,58 +452,6 @@ FraudShield-AI/
 └── README.md
 ```
 
----
-
-## 📸 Application Screenshots
-
-### Financial Fraud Command Center
-
-![FraudShield Command Center](assets/command_center.png)
-
-The Command Center provides real-time-style fraud intelligence metrics and transaction threat analysis.
-
----
-
-### Fraud Investigation
-
-![Fraud Investigation](assets/fraud_investigation.png)
-
-The investigation module prioritizes suspicious financial transactions using model-generated fraud probability.
-
----
-
-### Risk Intelligence
-
-![Risk Intelligence](assets/risk_intelligence.png)
-
-Risk Intelligence analyzes transaction fraud probability and severity segments across the evaluation population.
-
----
-
-### Explainable AI
-
-![Explainable AI](assets/explainable_ai.png)
-
-The Explainable AI module ranks transaction features using permutation importance.
-
----
-
-### Model Performance
-
-![Model Performance](assets/model_performance.png)
-
-The Model Performance dashboard provides detailed evaluation metrics and model comparison intelligence.
-
----
-
-### About FraudShield AI
-
-![About FraudShield](assets/about_system.png)
-
-The About System module presents the FraudShield AI architecture, intelligence pipeline, technology stack, and project capabilities.
-
----
-
 ## ⚙️ Local Installation
 
 ### 1. Clone the Repository
