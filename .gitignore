@@ -1,7 +1,38 @@
+# ============================================================
+# FRAUDSHIELD AI
+# ============================================================
+
+# ORIGINAL LARGE DATASET
 data/creditcard.csv
-reports/evaluation_predictions.csv
+
+# PYTHON CACHE
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# VIRTUAL ENVIRONMENTS
 venv/
-.env
+env/
+.venv/
+ENV/
+
+# IDE FILES
 .vscode/
+.idea/
+
+# OPERATING SYSTEM FILES
+.DS_Store
+Thumbs.db
+
+# STREAMLIT SECRETS
+.streamlit/secrets.toml
+
+# JUPYTER
+.ipynb_checkpoints/
+
+# LOG FILES
+*.log
+
+# TEMPORARY FILES
+*.tmp
+*.temp
