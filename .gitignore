@@ -1,0 +1,7 @@
+data/creditcard.csv
+reports/evaluation_predictions.csv
+__pycache__/
+*.pyc
+venv/
+.env
+.vscode/
